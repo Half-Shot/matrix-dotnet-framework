@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixBotFramework", "MatrixBotFramework\MatrixBotFramework.csproj", "{344969ED-687E-4C5C-9CE0-B16EB43E3890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{344969ED-687E-4C5C-9CE0-B16EB43E3890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344969ED-687E-4C5C-9CE0-B16EB43E3890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344969ED-687E-4C5C-9CE0-B16EB43E3890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344969ED-687E-4C5C-9CE0-B16EB43E3890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
